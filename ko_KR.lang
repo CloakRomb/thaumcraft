@@ -45,7 +45,7 @@ entity.Thaumcraft.ExplosiveOrb.name=폭탄 화염구
 entity.Thaumcraft.ShockOrb=충격적인 구체
 entity.Thaumcraft.GolemOrb.name=에너지 구체
 entity.Thaumcraft.BottleTaint.name=테인트 병
-entity.Thaumcraft.Firebat.name=불박쥐
+entity.Thaumcraft.Firebat.name=불타는 박쥐
 entity.Thaumcraft.Wisp.name=위습
 entity.Thaumcraft.Alumentum.name=알루멘텀
 entity.Thaumcraft.GiantBrainyZombie.name=사나운 좀비
@@ -101,9 +101,9 @@ champion.mod.vampiric=뱀파이어
 champion.mod.infested=감염된
 #
 tc.boss.crimson=크림슨 컬트의 도착을 예견하는 루비 포탈이 주변에 열렸습니다. 빨리 포탈을 닫으세요!
-tc.boss.golem=A lone sentinel stands frozen in this room, but as energy starts crackling through its ancient frame you know it will not stay frozen for long.
-tc.boss.warden=Black energy bubbles on the distant pedestal. Something is coming...
-tc.boss.taint=An organic rustling comes from the room beyond. The sound of something wrong... something growing...
+tc.boss.golem=수호자가 이 방에서 정지한 채 홀로 서 있습니다. 그러나 에너지가 불꽃을 튀기며 해묵은 수호자의 몸뚱이로 흘러들기 시작합니다. 당신은 저 놈이 조만간 움직일 거라는 사실을 깨닫습니다.
+tc.boss.warden=외계의 제단에 새까만 에너지 방울이 떠 있습니다. 무언가 옵니다...
+tc.boss.taint=내장이 꿀럭거리는 소리가 방 저편에서 들리기 시작합니다. 불길한 느낌이 드는 소리입니다...무언가 돋아납니다...
 #
 # Blocks
 tile.blockAiry.0.name=오라 노드
@@ -249,7 +249,7 @@ tile.blockArcaneFurnace.name=지옥불 화로
 tile.blockEldritch.0.name=이계의 제단
 tile.blockEldritch.1.name=이계의 방첨탑
 tile.blockEldritch.2.name=이계의 방첨탑
-tile.blockEldritch.3.name=이계의 캡스톤
+tile.blockEldritch.3.name=이계의 키스톤
 tile.blockPortalEldritch.name=이계의 포탈
 tile.blockEssentiaReservoir.name=에센시아 저장소
 #
@@ -296,7 +296,7 @@ item.WandRod.56.name=타오르는 스태프 코어
 item.WandRod.57.name=본 스태프 코어
 item.WandRod.100.name=태초의 스태프 코어
 #
-# this is what is used to name the wand - the position of the variables can be altered so it makes more sense in other languages
+# 이 이름은 이것의 본질에 비하면 너무나도 단순합니다 - 다른 언어라면 이 완드의 위대한 본질을 빛낼 이름을 붙일 수 있을 겁니다.
 item.Wand.name=%ROD %CAP %OBJ
 #
 item.Wand.wand.obj=완드
@@ -628,7 +628,7 @@ tc.primalcharm.0=무언가 새는 것 같습니다
 tc.primalcharm.1=무언가 속삭이는 듯 합니다
 tc.primalcharm.2=격렬하게 진동합니다
 tc.primalcharm.3=부드럽게 웅웅거리는 소리가 납니다
-tc.primalcharm.4=잠깐, 지금 일곱 번 째 색으로 빛나지 않았어?
+tc.primalcharm.4=잠깐, 지금 일곱번째 색으로 빛나지 않았어?
 tc.primalcharm.trigger=태초의 부적에서 이상한 에너지가 느껴집니다. 에너지는 얼마 못가 사라졌지만, 그 강렬한 인상은 쉽게 잊을 수 없을 듯 합니다
 #
 # Aspects
@@ -1593,12 +1593,12 @@ tc.research_page.SANITYCHECK.1=요즘 들어 마음이 혼란해지는 일들이
 #
 tc.research_name.CRIMSON=크림슨 컬트
 tc.research_text.CRIMSON=당부의 말 한마디
-tc.research_page.CRIMSON.1=이 책의 대부분은 알 수 없는 기호들과 문자로 가득하지만, 크림슨 컬트의 목표에 대한 어떤 이상한 통찰력을 제공합니다.<BR>그들의 기원은 베일에 쌓여있지만, 그들의 목표의 완성은 대략적으로나마 짐작이 갑니다. 그들이 무엇을 하는 것임엔 틀림이 없지만, 그것이 과연 좋은 일인지엔 의심이 갑니다.<BR>흥미롭게도, 당신은 저주 마법의 누락된 조각을 이들에게서 찾을 수 있을지도 모릅니다. 하지만 그걸 시도하는 사람은 아마 미치광이밖에 없을겁니다.
+tc.research_page.CRIMSON.1=이 책의 대부분은 알 수 없는 기호들과 문자로 가득하지만, 크림슨 컬트의 목표에 대한 어떤 이상한 통찰력을 제공합니다.<BR>그들의 기원은 베일에 싸여있지만, 그들의 목표의 완성은 대략적으로나마 짐작이 갑니다. 그들이 무엇을 하는 것임엔 틀림이 없지만, 그것이 과연 좋은 일인지엔 의심이 갑니다.<BR>흥미롭게도, 당신은 저주 마법의 누락된 조각을 이들에게서 찾을 수 있을지도 모릅니다. 하지만 그걸 시도하는 사람은 아마 미치광이밖에 없을겁니다.
 #
 tc.research_name.OCULUS=개안 의식
 tc.research_text.OCULUS=나는 봤어! 나는 봤다고!
-tc.research_page.OCULUS.1=It was all so simple - you are amazed the Crimson Cultists have never discovered this.<BR>To perform the ritual you simply need to place four Eldritch Eyes on the specially marked keystone found at one of the strange altars where you first discovered the cult. The sinister node above the keystone must remain intact.<BR>Once this is done it is a simple matter of infusing a large amount of primal vis into the keystone with a wand - 100 units of each should be sufficient.
-tc.research_page.OCULUS.2=If you have done everything right the ritual should be complete and the so called "Eye" would be opened.<BR>Of course you have no idea what that means. No matter, only fools fear the unknown! 
+tc.research_page.OCULUS.1=...이렇게 간단한 것을! 크림슨 컬트가 이것의 정체를 밝혀내지 못했다는 사실이 그저 놀라울 뿐입니다.<BR>의식을 거행하려면 그저 특별한 표시가 새겨진 키스톤에 이계의 눈 네 개를 놓으면 됩니다. 수상한 제단 주변에 말이죠. 네, 당신이 컬트와 조우한 장소 중 하나 말입니다! 키스톤의 노드는 부서지지 않고 그대로 있어야만 합니다.<BR>이게 해결됐다면 다음은 키스톤과 지팡이에 최초의 원소를 대량으로 주입하면 됩니다...각각 100 정도 채워넣으면 될 겁니다. 간단한 일이죠.
+tc.research_page.OCULUS.2=만일 모든 일을 정상적으로 끝마쳤다면 제단은 완성되고 "눈"이라고 불리우는 것이 열릴 것입니다.<BR>이게 무슨 뜻인지는, 당연하지만, 잘 모르겠습니다. 뭐 어때요, 미지의 영역을 두려워하는 건 오직 멍청이들 뿐입니다! 
 #
 tc.research_name.ESSENTIARESERVOIR=고급 에센시아 저장소
 tc.research_text.ESSENTIARESERVOIR=취급주의
